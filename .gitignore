@@ -21,3 +21,13 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+*.log
+*.txt
+*.jpg
+*.gif
+*.webp
+*.png
+*.jpeg
+*.zip
+*.svg
+*.map
